@@ -180,7 +180,6 @@ pages:
 - hugo/content/blog/full-speed-ahead-in-2019.md
 - hugo/content/blog/full-text-searching-with-postgres.md
 - hugo/content/blog/gulp-and-webpack-best-of-both-worlds.md
-- hugo/content/blog/harness-the-power-of-static-to-create-presentations.md
 - hugo/content/blog/how-i-reduced-my-jekyll-build-time-by-61.md
 - hugo/content/blog/how-to-use-hugo-s-image-processing-with-forestry.md
 - hugo/content/blog/hugo-and-jekyll-compared.md
@@ -218,7 +217,6 @@ pages:
 - hugo/content/blog/vuepress-support-beta.md
 - hugo/content/blog/what-are-instant-previews.md
 - hugo/content/blog/what-s-new-in-jekyll-3-4-0.md
-- hugo/content/blog/what-s-new-in-jekyll-3.8.md
 - hugo/content/blog/why-we-built-forestry.md
 - hugo/content/blog/why-we-created-a-git-backed-content-manager.md
 - hugo/content/blog/wysiwyg-formatting-in-front-matter.md
