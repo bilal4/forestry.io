@@ -1,5 +1,5 @@
 ---
-title: 'Announcing Tina: an open-source site-editor'
+title: 'Announcing Tina: an open-source site-editor(for testing)'
 description: Tina is an open-source site editing toolkit for React-based frameworks
   — Gatsby & Next.js. Build real-time editing into your site.
 date: 2019-10-16T18:00:00.000+00:00
@@ -12,8 +12,10 @@ textline: ''
 images:
 - "/uploads/2019/10/tinacms.png"
 photo_credit: ''
-categories: ["cms"]
-tags: ["cms"]
+categories:
+- cms
+tags:
+- cms
 cta:
   headline: ''
   textline: ''
